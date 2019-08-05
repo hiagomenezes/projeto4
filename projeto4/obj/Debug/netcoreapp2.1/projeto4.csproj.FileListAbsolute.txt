@@ -1,0 +1,11 @@
+C:\Users\Dev Note 01\Desktop\hiago\projeto4\projeto4\bin\Debug\netcoreapp2.1\projeto4.deps.json
+C:\Users\Dev Note 01\Desktop\hiago\projeto4\projeto4\bin\Debug\netcoreapp2.1\projeto4.runtimeconfig.json
+C:\Users\Dev Note 01\Desktop\hiago\projeto4\projeto4\bin\Debug\netcoreapp2.1\projeto4.runtimeconfig.dev.json
+C:\Users\Dev Note 01\Desktop\hiago\projeto4\projeto4\bin\Debug\netcoreapp2.1\projeto4.dll
+C:\Users\Dev Note 01\Desktop\hiago\projeto4\projeto4\bin\Debug\netcoreapp2.1\projeto4.pdb
+C:\Users\Dev Note 01\Desktop\hiago\projeto4\projeto4\obj\Debug\netcoreapp2.1\projeto4.csprojAssemblyReference.cache
+C:\Users\Dev Note 01\Desktop\hiago\projeto4\projeto4\obj\Debug\netcoreapp2.1\projeto4.csproj.CoreCompileInputs.cache
+C:\Users\Dev Note 01\Desktop\hiago\projeto4\projeto4\obj\Debug\netcoreapp2.1\projeto4.AssemblyInfoInputs.cache
+C:\Users\Dev Note 01\Desktop\hiago\projeto4\projeto4\obj\Debug\netcoreapp2.1\projeto4.AssemblyInfo.cs
+C:\Users\Dev Note 01\Desktop\hiago\projeto4\projeto4\obj\Debug\netcoreapp2.1\projeto4.dll
+C:\Users\Dev Note 01\Desktop\hiago\projeto4\projeto4\obj\Debug\netcoreapp2.1\projeto4.pdb
